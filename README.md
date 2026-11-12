@@ -72,3 +72,17 @@ First, we will provision a new user account utilizing the Windows Command Prompt
 <img width="1899" height="991" alt="Administrator_ Command Prompt 11_11_2026 14_11_11" src="https://github.com/user-attachments/assets/180d9e72-d004-4024-be8c-344476a319f2" />
 <img width="1899" height="991" alt="Administrator_ Command Prompt 11_11_2026 14_18_40" src="https://github.com/user-attachments/assets/aa0b45f9-c21d-4cef-a686-af1221721667" />
 <img width="1920" height="991" alt="Event Viewer 11_11_2026 14_19_42" src="https://github.com/user-attachments/assets/db7ac222-d4c8-4ecb-a5e3-988c1e6952b1" />
+
+
+## STEP - 4  Hands-on Exercise:Event ID 4724: Password Reset
+
+In this section, we will modify the password for the "cyberali" user account and subsequently monitor and analyze the resulting audit logs within the Windows Event Viewer.
+<img width="1899" height="991" alt="Event Viewer 11_11_2026 14_26_04" src="https://github.com/user-attachments/assets/f38ac682-73e2-430e-af74-edb673f27114" />
+<img width="1920" height="991" alt="Event Viewer 11_11_2026 14_26_36" src="https://github.com/user-attachments/assets/7a4267c4-e717-44c7-926f-c47abb229f8a" />
+
+## STEP - 5  Hands-on Exercise:Event ID 102:  Security Log Cleared
+
+In this exercise, we will attempt to clear all logs from the Windows Event Viewer and subsequently analyze how the system preserves a security audit record documenting the log-clearing event itself.
+<img width="1920" height="991" alt="Event Viewer 11_11_2026 14_19_42" src="https://github.com/user-attachments/assets/9d5ab72a-be8c-427b-976f-d02227a056a6" />
+
+<img width="1920" height="991" alt="Event Viewer 11_11_2026 14_29_23" src="https://github.com/user-attachments/assets/a1d00654-d1cf-4723-8951-6df7d4333a7a" />
