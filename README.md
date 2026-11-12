@@ -55,9 +55,20 @@ For this hands-on exercise, we will examine and review the specified event logs.
 ## STEP - 2  Hands-on Exercise: Event ID 4625 (Failed Logon Attempt)
 
 In this exercise, we will monitor, examine, and investigate failed logon attempts utilizing the Windows Event Viewer.
+
 <img width="1899" height="991" alt="Administrator_ Command Prompt 11_11_2026 13_59_15" src="https://github.com/user-attachments/assets/cf3fb68b-f79c-4521-837a-f12a3218cb3f" />
 <img width="1920" height="991" alt="Administrator_ Command Prompt 11_11_2026 13_59_40" src="https://github.com/user-attachments/assets/99e7d701-562a-4e90-b174-b5a659beae09" />
 <img width="1920" height="991" alt="Event Viewer 11_11_2026 13_59_52" src="https://github.com/user-attachments/assets/55406c04-fd29-4380-8ac7-992fe8c6f849" />
 <img width="1920" height="991" alt="Event Viewer 11_11_2026 14_03_24" src="https://github.com/user-attachments/assets/876024b5-0452-4cc5-8b68-34c2485b0ccf" />
 <img width="780" height="507" alt="Event Viewer 11_11_2026 14_04_10" src="https://github.com/user-attachments/assets/7ab7249e-a059-46ed-886a-b80492545420" />
 
+
+## STEP - 3  Hands-on Exercise:Event ID 4624: Successful Logon.
+
+In this exercise, we will monitor, examine, and investigate successful logon attempts utilizing the Windows Event Viewer.
+
+
+First, we will provision a new user account utilizing the Windows Command Prompt, subsequently execute an authentication attempt, and finally review and monitor the resulting event logs within the Windows Event Viewer.
+<img width="1899" height="991" alt="Administrator_ Command Prompt 11_11_2026 14_11_11" src="https://github.com/user-attachments/assets/180d9e72-d004-4024-be8c-344476a319f2" />
+<img width="1899" height="991" alt="Administrator_ Command Prompt 11_11_2026 14_18_40" src="https://github.com/user-attachments/assets/aa0b45f9-c21d-4cef-a686-af1221721667" />
+<img width="1920" height="991" alt="Event Viewer 11_11_2026 14_19_42" src="https://github.com/user-attachments/assets/db7ac222-d4c8-4ecb-a5e3-988c1e6952b1" />
