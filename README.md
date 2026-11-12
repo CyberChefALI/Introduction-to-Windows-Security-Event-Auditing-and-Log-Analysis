@@ -13,3 +13,30 @@ Windows Event Viewer (pre-installed)
 
 Administrative Privileges (to access certain security logs)
 
+## What are Windows Security Logs?
+
+Windows Security Logs contain records of security-related events on the system, such as
+
+Successful login attempt
+
+Failed login attempt
+
+Password Reset
+
+Security Logs Cleared
+
+These logs are valuable for monitoring security incidents, detecting unauthorized access, and auditing system changes.
+
+
+## Understanding Event IDs in Security Logs:
+
+Event ID 4624: Successful Logon.
+
+Event ID 4625: Failed Logon.
+
+Event ID 4724: Password Reset
+
+Event ID 102:  Security Log Cleared
+
+
+
