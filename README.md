@@ -6,6 +6,10 @@ This lab teaches students how to navigate and examine Windows Security Logs to s
 
 ## LAB SETUP -
 System: Windows 10/11 or Windows Server 2019/2022
+
 TOOLS:
+
 Windows Event Viewer (pre-installed)
+
 Administrative Privileges (to access certain security logs)
+
