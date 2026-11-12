@@ -86,3 +86,15 @@ In this exercise, we will attempt to clear all logs from the Windows Event Viewe
 <img width="1920" height="991" alt="Event Viewer 11_11_2026 14_19_42" src="https://github.com/user-attachments/assets/9d5ab72a-be8c-427b-976f-d02227a056a6" />
 
 <img width="1920" height="991" alt="Event Viewer 11_11_2026 14_29_23" src="https://github.com/user-attachments/assets/a1d00654-d1cf-4723-8951-6df7d4333a7a" />
+
+
+## Conclusion:
+
+* Comprehending Windows Security Logs is critical for detecting anomalous activity, including unauthorized authentication attempts, privilege escalation, and unauthorized modifications to system configurations.
+
+* As a Security Operations Center (SOC) analyst, continuously examining and evaluating these logs is vital for identifying and addressing security incidents as they happen.
+
+* Threat Detection: By tracking repeated failed logins, account lockouts, and privilege escalations, SOC analysts can rapidly identify malicious behavior across a network.
+
+
+  ##  Created by CyberChefAli
